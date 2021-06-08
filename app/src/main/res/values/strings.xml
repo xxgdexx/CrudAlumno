@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_menu">Menu</string>
+    <string name="txt_menu_actualiza_alumno">Actualiza Alumno</string>
+</resources>

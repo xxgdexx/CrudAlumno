@@ -1,0 +1,8 @@
+https://api-cibertec-moviles.herokuapp.com/servicio/revista
+https://api-cibertec-moviles.herokuapp.com/servicio/alumno
+https://api-cibertec-moviles.herokuapp.com/servicio/autor
+https://api-cibertec-moviles.herokuapp.com/servicio/editorial
+https://api-cibertec-moviles.herokuapp.com/servicio/libro
+https://api-cibertec-moviles.herokuapp.com/servicio/proveedor
+https://api-cibertec-moviles.herokuapp.com/servicio/sala
+https://api-cibertec-moviles.herokuapp.com/servicio/usuario
